@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/elizaniedzielska/triptest/issues"
   },
-  "homepage": "https://github.com/elizaniedzielska/triptest#readme"
+  "homepage": "https://github.com/elizaniedzielska/triptest#readme",
+  "devDependencies": {
+    "cypress": "^13.3.0"
+  }
 }

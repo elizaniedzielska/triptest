@@ -1,0 +1,22 @@
+{
+    "pointA": "[data-cy='fromSelect']",
+    "pointB" : "[data-cy='toSelect']",
+    "calendar" : "[data-cy='departureDate']",
+    "time" : "[data-cy='departureTime']",
+    "searchBtn" : "[data-cy='book-button']",
+    "sightsCheck" : "Visit these sights along the way",
+    "moreOptionsBtn" : "More options",
+    "addSight" : "Add",
+    "bookTrip" : "[data-cy='bookTrip']",
+    "emailInput" : "[type='email']",
+    "saveAndContinue" : "[data-cy='saveAndContinue']",
+    "travelingForWork" : "[data-cy='paymentType']",
+    "firstName" : "#adult_0_firstName",
+    "lastName" : "#adult_0_lastName",
+    "birthDay" : "#date-input", 
+    "birthMonth" : "[data-cy='monthSelector']",
+    "birthYear" : "[data-cy='yearInput']",
+    "phoneNumber" : "#phone",
+    "confirm" : "[data-cy='confirmPayment']",
+    "confirmCheck" : "We’re looking for a driver..."
+}
