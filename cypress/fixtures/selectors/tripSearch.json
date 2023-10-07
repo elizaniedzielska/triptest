@@ -1,0 +1,7 @@
+{
+    "pointA": "[data-cy='fromSelect']",
+    "pointB" : "[data-cy='toSelect']",
+    "calendar" : "[data-cy='departureDate']",
+    "time" : "[data-cy='departureTime']",
+    "searchBtn" : "[data-cy='book-button']"
+}

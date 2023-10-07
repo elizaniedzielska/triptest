@@ -1,0 +1,9 @@
+{
+    "pointA": "[data-cy='fromSelect']",
+    "pointB" : "[data-cy='toSelect']",
+    "calendar" : "[data-cy='departureDate']:visible",
+    "sightsCheck" : "Visit these sights along the way",
+    "moreOptionsBtn" : "More options",
+    "addSight" : "Add",
+    "bookTrip" : "[data-cy='bookTrip']:visible"
+}

@@ -1,0 +1,19 @@
+{
+    "travelingForWork" : "[data-cy='paymentType']",
+    "firstName" : "#adult_0_firstName",
+    "lastName" : "#adult_0_lastName",
+    "birthDay" : "#date-input",
+    "months": {
+        "january": "#month-option-0",
+        "february": "#month-option-1",
+        "march": "#month-option-2"
+    },
+    "birthMonth" : "[data-cy='monthSelector']",
+    "birthYear" : "[data-cy='yearInput']",
+    "phoneNumber" : "#phone",
+    "isBusinessTrip": {
+        "yes": "#1[name='isBusinessTrip']",
+        "no": "#2[name='isBusinessTrip']"
+    },
+    "confirm" : "[data-cy='confirmPayment']"
+}

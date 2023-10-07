@@ -1,2 +1,6 @@
 import './commands'
 import './commands/general'
+import './commands/tripSearch'
+import './commands/routePage'
+import './commands/completeBookingPage'
+import './commands/checkoutPage'

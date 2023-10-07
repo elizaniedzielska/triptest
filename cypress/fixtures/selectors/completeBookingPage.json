@@ -1,0 +1,4 @@
+{
+    "emailInput" : "[type='email']",
+    "saveAndContinue" : "[data-cy='saveAndContinue']"
+}

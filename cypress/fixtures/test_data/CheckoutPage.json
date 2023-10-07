@@ -1,9 +1,9 @@
 {
-    "email" : "email@gmail.com",
     "name" : "John",
     "lastName" : "Smith",
     "birthDay" : "14",
     "birthMonth" : "October",
     "birthYear" :  "2000",
-    "phoneNumber" :"6679909860"
+    "phoneNumber" :"6679909860",
+    "bookingConfirmation" : "We’re looking for a driver..."
 }
